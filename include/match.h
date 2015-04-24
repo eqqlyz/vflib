@@ -23,6 +23,9 @@
 #include "argraph.h"
 #include "state.h"
 
+/*Add by 刘延昭 2015.04.24*/
+#include<stack>
+using namespace std;
 /*------------------------------------------------------------
  * Definition of the match_visitor type
  * a match visitor is a function that is invoked for
